@@ -1,5 +1,5 @@
 # Book_Shelf_React_Web_Project
-This Project is the practice project with Mobile View only for The complete React Fullstack course
+This Project is the practice project with Mobile View only for 'The Complete React Fullstack Course'
 
 
 Project Demo Link: https://fierce-garden-32560.herokuapp.com/
